@@ -1,0 +1,4 @@
+Artyom Martirosyan
+10/13/2019 
+Left,Right and Center asgn2:
+For this program we created a simple game which would have the user input a seed and number of players and run the classic game left, right, and center. For my program there are two main files the Makefile and lrc.c the Makefile can be considered as a shotcut tool as if allows for the user to type in some simple words rather then a long line of commands. For this program there are 3 commands which the command Makefile has Make/Make all which simply compiles the program, make clean which deletes some files which are created when compiling an make infer which scans the program and can analize specific files. In order to run the program simply type make or make all, then type ./lrc and follow the insturctions to enjoy the game(one important note is that this game is set for up to 10 players).
